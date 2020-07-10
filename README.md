@@ -56,6 +56,13 @@ sudo apt install grafana
 ```
 sudo service grafana-server start
 ```
+## influxdb import with python
+
+```
+
+sudo pip install influxdb
+
+```
 ### Git Hub 사용방법
 
   -Repository down load
